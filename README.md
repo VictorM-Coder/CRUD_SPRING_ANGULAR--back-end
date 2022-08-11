@@ -9,6 +9,7 @@
 - [Sobre o Projeto](#-sobre-o-projeto)
 - [Tecnologias utilizadas](#-tecnologias-utilizadas)
 - [Licença](#-licença)
+- [Front-end](#front-end)
 </br></br>
 
 ## 💡 Sobre o Projeto
@@ -25,6 +26,9 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 - JPA
 - MySQL
 <br><br> 
+
+## Front-end
+[Repositório](https://github.com/VictorM-Coder/CRUD_SPRING_ANGULAR--front-end)
 
 ## 📕 Licença
 
